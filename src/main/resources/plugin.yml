@@ -1,9 +1,5 @@
-name: QuantiumInstantRespawn
+name: QuantiumChatLocker
 author: QuantiumMC
 version: 1.0
-main: ru.quantiummc.dev.instantrespawn.Main
+main: ru.quantiummc.dev.chatlocker.Main
 api-version: 1.21
-commands:
-  irespawn:
-    aliases: [ir, instantr, instantrespawn]
-    usage: /instantrespawn info|reload
