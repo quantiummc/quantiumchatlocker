@@ -1,0 +1,9 @@
+name: QuantiumInstantRespawn
+author: QuantiumMC
+version: 1.0
+main: ru.quantiummc.dev.instantrespawn.Main
+api-version: 1.21
+commands:
+  irespawn:
+    aliases: [ir, instantr, instantrespawn]
+    usage: /instantrespawn info|reload
